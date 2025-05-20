@@ -1,0 +1,1 @@
+Hello! This is a fun game for my school final. It was made in godot and the creation was devlogged on the Taxlottle Syndicate Official Youtube which can be found here: https://www.youtube.com/@Taxalottle-Syndicate. You can play this fun metroidvania style pixel art game here: https://dragoneyegames.github.io/SchoolProject/
